@@ -45,7 +45,6 @@ Invalid values (97, 98, 99) are handled during preprocessing.
 - **Platform:** Google Colab
 - **Libraries:**
   - Pandas, NumPy
-  - Matplotlib
   - Scikit-learn
 - **Dataset Source:** Kaggle
 
