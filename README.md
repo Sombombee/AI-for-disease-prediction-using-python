@@ -1,4 +1,4 @@
-# AI-for-disease-prediction-using-python
+#COVID-19 Mortality Prediction Using AI
 
 ---
 
